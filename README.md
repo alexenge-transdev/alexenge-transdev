@@ -1,6 +1,6 @@
 - 👋 Hi, ich bin **Alex** (@alexenge-transdev)
+- 👦 Meine Pronomen sind **er/ihn**
 - 👨‍💻 Ich arbeite als **Datenmanager** bei Transdev Vertrieb in Leipzig
 - 📈 Meine Lieblingsthemen sind **Datenanalyse**, **Statistik**, **Machine Learning** und **Automatisierung**
 - 💬 Meine Programmiersprachen sind hauptsächlich **R** und **Python**
-- 👦 Meine Pronomen sind **er/ihn**
-- 🏃 In meine Freizeit mache ich **Langstreckenlauf** und fahre gerne **Fahrrad**
+- 🏃 In meine Freizeit gehe ich gerne **Laufen** und fahre gerne **Fahrrad**
